@@ -5,7 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashith-vs/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ashith855@gmail.com)
 
-You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
 
 Happy Coding! 😊
