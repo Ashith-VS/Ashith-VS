@@ -7,7 +7,6 @@
 
 Please feel free to clone projects and raise issues if you think something could be better.
 
-Happy Coding! 😊
 
 <br>
 
